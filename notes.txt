@@ -30,5 +30,7 @@ Steps:
 
 5) built light web app using arcgis map sdk for javascript to load the json file containing the information of each location
 
+6) simple conversation of json to geojson, then published as web layer in arcgis pro
+
 chat conversations:
 https://chatgpt.com/c/6a502e29-15cc-83e8-84d6-0dbf7c68b34c
